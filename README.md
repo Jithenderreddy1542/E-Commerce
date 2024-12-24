@@ -52,7 +52,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jithenderreddy1542/E-Commerce.git
-   cd server
+   cd E-Commerce
    ```
 
 2. Install dependencies:
@@ -127,7 +127,5 @@ Ensure you have the following installed:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
-- Jithender reddy - [GitHub Profile]((https://github.com/Jithenderreddy1542))
+- Jithender reddy 
 ```
-
-Replace placeholders like `your-username` and `your-repo-name` with your actual details. Let me know if you need further customizations!
