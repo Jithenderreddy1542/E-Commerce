@@ -58,7 +58,7 @@ Ensure you have the following installed:
 2. Install dependencies:
    ```bash
    # Install backend dependencies
-   cd server
+   cd E-Commerce
    npm install
    ```
 
@@ -72,8 +72,8 @@ Ensure you have the following installed:
 4. Start the application:
    ```bash
    # Start the backend server
-   cd backend
-   npm start
+   cd E-Commerce
+   npm run dev
    ```
 
 5. Open the application in your browser:
